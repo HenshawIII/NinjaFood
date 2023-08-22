@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+
+@import 'tailwindcss/components';
+
+@import 'tailwindcss/utilities';
+
+/* body{
+    background-color: black;
+} */
+/* @layer components{
+.card{
+    @apply bg-slate-200 uppercase rounded-full p-2 absolute top-1 left-1 text-gray-700 ;
+}} */
